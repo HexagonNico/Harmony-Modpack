@@ -1,0 +1,15 @@
+# Minecraft and Forge
+.mixin.out
+crash-reports
+defaultconfigs
+downloads
+logs
+mods
+resourcepacks
+saves
+screenshots
+.curseclient
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json

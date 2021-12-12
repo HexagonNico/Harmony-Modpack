@@ -1,0 +1,7 @@
+{
+  "inventory": {
+    "0:8": "{id:\"quark:backpack\",Count:1b,tag:{Inventory:[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],Enchantments:[{lvl:1s,id:\"minecraft:vanishing_curse\"}]}}",
+    "0:7": "{id:\"antiqueatlas:empty_antique_atlas\",Count:1b}"
+  },
+  "wipeBlacklist": []
+}

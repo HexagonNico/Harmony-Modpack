@@ -1,0 +1,16 @@
+{
+  "type": "reworkedmetals:smelting",
+  "ingredients": [
+    {
+      "item": "environmental:mud_ball"
+    }
+  ],
+  "result": {
+    "item": "environmental:mud_brick"
+  },
+  "experience": 0.3,
+  "smelting_time": 200,
+  "stations": [
+    "kiln"
+  ]
+}

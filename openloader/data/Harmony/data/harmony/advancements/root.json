@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "abundance:lavender"
+    },
+    "title": "Harmony Modpack - Beta",
+    "description": "Thank you for playing Harmony!\n\nIn the future the advancement tab will contain quests, challenges and guides through the different mods\n\nIf you would like the development of the modpack to continue, please consider showing your support!",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "begin": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

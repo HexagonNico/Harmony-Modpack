@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:deepslate_bricks"
+  },
+  "result": "quark:cracked_deepslate_bricks",
+  "count": 1
+}
